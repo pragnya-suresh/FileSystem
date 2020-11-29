@@ -1,6 +1,3 @@
-# FileSystem
-
-
 
 # <span style="text-decoration:underline;">FILE SYSTEM IMPLEMENTATION USING FUSE API</span>
 
